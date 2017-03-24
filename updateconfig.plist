@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>version</key>
-	<real>10000</real>
+	<real>10001</real>
 	<key>downurl</key>
 	<string>https://codeload.github.com/huangkunhe/BottomViewDemo/zip/master</string>
 	<key>updatedate</key>
