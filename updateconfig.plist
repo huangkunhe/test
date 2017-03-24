@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<real>10000</real>
+	<key>downurl</key>
+	<string>https://codeload.github.com/huangkunhe/BottomViewDemo/zip/master</string>
+	<key>updatedate</key>
+	<date>2017-03-24T06:30:51Z</date>
+</dict>
+</plist>
