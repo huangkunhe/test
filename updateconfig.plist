@@ -8,5 +8,7 @@
 	<string>https://codeload.github.com/huangkunhe/markphone/zip/master</string>
 	<key>updatedate</key>
 	<date>2017-04-01T06:30:51Z</date>
+	<key>isOpneAD</key>
+	<false/>
 </dict>
 </plist>
