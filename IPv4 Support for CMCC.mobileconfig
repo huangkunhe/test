@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Warning: iOS 12现在有一些bug会导致这个配置文件无法正常删除（即删除后APN依然沿用描述文件的配置，且无法安装其他APN描述文件），如果您正在使用iOS 12且最近会将SIM卡更换为国内三大运营商以外的SIM卡，请不要安装这个描述文件。</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>1</integer>
+					<key>AllowedProtocolMaskInRoaming</key>
+					<integer>1</integer>
+					<key>DefaultProtocolMask</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>cmnet</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures cellular data settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Cellular</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.EA8C5C2D-43D4-4B16-966E-583C1648996D</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>EA8C5C2D-43D4-4B16-966E-583C1648996D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>IPv6 Support for CMCC</string>
+	<key>PayloadDisplayName</key>
+	<string>IPv6 Support for CMCC</string>
+	<key>PayloadIdentifier</key>
+	<string>Yangyus-MacBook-Pro.253B441B-6786-4330-9A9B-A848B2805811</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BBE7BB24-9E89-47BE-92E1-838707E52EDA</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
